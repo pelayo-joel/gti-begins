@@ -1,4 +1,13 @@
-git clone [URL via https] [ssh]
-git add [PATH]
-git commit
-git push -u origin
+
+git clone [URL via https/ssh]
+
+Commandes git push :
+	git add [PATH]
+	git commit
+	git push -u origin
+
+Commande git branch :
+	git branch (voir les branches existantes)
+	git branch [newbranch-name]
+	git checkout -b [newbranch-name]
+	git checkout [branch-name] (pour changer de branch)
