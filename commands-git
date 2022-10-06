@@ -1,0 +1,4 @@
+git clone [URL via https] [ssh]
+git add [PATH]
+git commit
+git push -u origin
